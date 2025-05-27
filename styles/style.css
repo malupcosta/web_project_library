@@ -24,8 +24,8 @@
 }
 
 .nav__logo {
-  width: 80px;
-  height: 58px;
+  width: 58px;
+  height: 80px;
 }
 
 .nav__links {
@@ -87,6 +87,7 @@
 
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
+  background-size: cover;
   padding: 100px 0 140px;
 }
 
