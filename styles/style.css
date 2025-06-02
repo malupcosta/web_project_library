@@ -340,7 +340,10 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: #ffffff;
-  padding: 80px 60px;
+  padding-top: 80px;
+  padding-right: 60px;
+  padding-bottom: 0;
+  padding-left: 60px;
 }
 
 .footer__columns {
@@ -352,10 +355,12 @@
 
 .footer__column_content_hours {
   max-width: 220px;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
   max-width: 220px;
+  margin-left: auto;
 }
 
 .footer__logo {
@@ -385,7 +390,7 @@
 }
 
 .footer__column-link {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   color: white;
   text-decoration: none;
