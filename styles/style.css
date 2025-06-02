@@ -360,6 +360,7 @@
 
 .footer__column_content_social {
   max-width: 220px;
+  margin: left 80px;
 }
 
 .footer__logo {
