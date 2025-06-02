@@ -340,10 +340,10 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   color: #ffffff;
-  padding-top: 80px;
-  padding-right: 60px;
-  padding-bottom: 0;
-  padding-left: 60px;
+  padding-top: 60px;
+  padding-right: 80px;
+  padding-bottom: 60px;
+  padding-left: 80px;
 }
 
 .footer__columns {
@@ -360,7 +360,6 @@
 
 .footer__column_content_social {
   max-width: 220px;
-  margin-left: auto;
 }
 
 .footer__logo {
